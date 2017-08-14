@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWordsGame.CSharp.Plugins", "TheWordsGame.CSharp.Plugins.csproj", "{E27CE5C2-9CEC-7D51-CCA6-41824D632A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWordsGame.CSharp", "TheWordsGame.CSharp.csproj", "{84C7D5BF-7FE4-422B-BA71-F94F0F0EF4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWordsGame.CSharp.Editor", "TheWordsGame.CSharp.Editor.csproj", "{81A17227-C0D2-AF83-4FDF-83654E170D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27CE5C2-9CEC-7D51-CCA6-41824D632A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27CE5C2-9CEC-7D51-CCA6-41824D632A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27CE5C2-9CEC-7D51-CCA6-41824D632A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27CE5C2-9CEC-7D51-CCA6-41824D632A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C7D5BF-7FE4-422B-BA71-F94F0F0EF4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C7D5BF-7FE4-422B-BA71-F94F0F0EF4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C7D5BF-7FE4-422B-BA71-F94F0F0EF4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C7D5BF-7FE4-422B-BA71-F94F0F0EF4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A17227-C0D2-AF83-4FDF-83654E170D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A17227-C0D2-AF83-4FDF-83654E170D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A17227-C0D2-AF83-4FDF-83654E170D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A17227-C0D2-AF83-4FDF-83654E170D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

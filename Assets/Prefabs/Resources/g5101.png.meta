@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: 49a03cd2f2e7bc147a13a033c4e89ec2
+timeCreated: 1500019691
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GreenA
+    21300002: GreenB
+    21300004: GreenC
+    21300006: GreenD
+    21300008: GreenU
+    21300010: RedA
+    21300012: RedB
+    21300014: RedC
+    21300016: RedD
+    21300018: RedU
+    21300020: BlueA
+    21300022: BlueB
+    21300024: BlueC
+    21300026: BlueD
+    21300028: BlueU
+    21300030: GreenE
+    21300032: GreenF
+    21300034: GreenG
+    21300036: GreenH
+    21300038: GreenV
+    21300040: RedE
+    21300042: RedF
+    21300044: RedG
+    21300046: RedH
+    21300048: RedV
+    21300050: BlueE
+    21300052: BlueF
+    21300054: BlueG
+    21300056: BlueH
+    21300058: BlueV
+    21300060: GreenI
+    21300062: GreenJ
+    21300064: GreenK
+    21300066: GreenL
+    21300068: GreenW
+    21300070: RedI
+    21300072: RedJ
+    21300074: RedK
+    21300076: RedL
+    21300078: RedW
+    21300080: BlueI
+    21300082: BlueJ
+    21300084: BlueK
+    21300086: BlueL
+    21300088: BlueW
+    21300090: GreenM
+    21300092: GreenN
+    21300094: GreenO
+    21300096: GreenP
+    21300098: GreenX
+    21300100: RedM
+    21300102: RedN
+    21300104: RedO
+    21300106: RedP
+    21300108: RedX
+    21300110: BlueM
+    21300112: BlueN
+    21300114: BlueO
+    21300116: BlueP
+    21300118: BlueX
+    21300120: GreenQ
+    21300122: GreenR
+    21300124: GreenS
+    21300126: GreenT
+    21300128: GreenY
+    21300130: RedQ
+    21300132: RedR
+    21300134: RedS
+    21300136: RedT
+    21300138: RedY
+    21300140: BlueQ
+    21300142: BlueR
+    21300144: BlueS
+    21300146: BlueT
+    21300148: BlueY
+    21300150: GreenZ
+    21300152: RedZ
+    21300154: BlueZ
+    21300156: 1
+    21300158: 2
+    21300160: 3
+    21300162: 10
+    21300164: 11
+    21300166: 4
+    21300168: 5
+    21300170: 6
+    21300172: 7
+    21300174: 8
+    21300176: 9
+    21300178: 12
+    21300180: Star
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenA
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7507
+        width: 353
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenB
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 7507
+        width: 353
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenC
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 7507
+        width: 352
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenD
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 7507
+        width: 353
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenU
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 7507
+        width: 354
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedA
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 7494
+        width: 351
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedB
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 7494
+        width: 353
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedC
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 7494
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedD
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 7494
+        width: 352
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedU
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 7494
+        width: 350
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueA
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 7507
+        width: 353
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueB
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 7507
+        width: 353
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueC
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 7507
+        width: 354
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueD
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 7507
+        width: 353
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueU
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 7507
+        width: 347
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenE
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6950
+        width: 353
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenF
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 6950
+        width: 353
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenG
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 6950
+        width: 352
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenH
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 6950
+        width: 353
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenV
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 6950
+        width: 354
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedE
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 6935
+        width: 351
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedF
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 6935
+        width: 353
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedG
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 6935
+        width: 354
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedH
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 6935
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedV
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 6935
+        width: 350
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueE
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 6950
+        width: 353
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueF
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 6950
+        width: 353
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueG
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 6950
+        width: 354
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueH
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 6950
+        width: 353
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueV
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 6950
+        width: 347
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenI
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6357
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenJ
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 6357
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenK
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 6357
+        width: 352
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenL
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 6357
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenW
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 6357
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedI
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 6345
+        width: 351
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedJ
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 6345
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedK
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 6345
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedL
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 6345
+        width: 352
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedW
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 6345
+        width: 350
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueI
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 6357
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueJ
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 6357
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueK
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 6357
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueL
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 6357
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueW
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 6357
+        width: 347
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenM
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5798
+        width: 353
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenN
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 5798
+        width: 353
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenO
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 5798
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenP
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 5798
+        width: 353
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenX
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 5798
+        width: 354
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedM
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 5784
+        width: 351
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedN
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 5784
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedO
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 5784
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedP
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 5784
+        width: 352
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedX
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 5784
+        width: 350
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueM
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 5796
+        width: 353
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueN
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 5796
+        width: 353
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueO
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 5796
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueP
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 5796
+        width: 353
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueX
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 5796
+        width: 347
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenQ
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5256
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenR
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 5256
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenS
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 5256
+        width: 352
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenT
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 5256
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenY
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 5256
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedQ
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 5244
+        width: 351
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedR
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 5244
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedS
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 5244
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedT
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 5244
+        width: 352
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedY
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 5244
+        width: 350
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueQ
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 5256
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueR
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 5256
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueS
+      rect:
+        serializedVersion: 2
+        x: 6995
+        y: 5256
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueT
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 5256
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueY
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 5256
+        width: 347
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenZ
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 4756
+        width: 354
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedZ
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 4744
+        width: 350
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueZ
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 4756
+        width: 347
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3209
+        width: 854
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 3208
+        width: 857
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 3244
+        width: 837
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 2372
+        width: 1910
+        height: 1945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 6414
+        y: 2346
+        width: 1908
+        height: 1943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2143
+        width: 861
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 2143
+        width: 852
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2130
+        width: 845
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1091
+        width: 838
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1087
+        width: 859
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1059
+        width: 853
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 0
+        width: 1906
+        height: 1936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 125
+        width: 869
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
